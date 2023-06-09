@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.search{
+  font-size: 24px;
+  padding: 5px 20px;
+}
+
+.listItem{
+  margin-bottom: 15px;
+}
+
+table,th,td{
+  border: 1px solid red;
+  border-collapse:collapse ;
+  margin-top:20px ;
+  width: 800px;
+  padding: 5px 0px;
+
+}
